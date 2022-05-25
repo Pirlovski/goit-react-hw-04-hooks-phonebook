@@ -2,7 +2,7 @@
   "name": "goit-react-hw-04-hooks-phonebook",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://pirlovski.github.io/goit-react-hw-04-hooks-phonebook/",
+  "homepage": "https://Pirlovski.github.io/goit-react-hw-04-hooks-phonebook/",
   "dependencies": {
     "-": "0.0.1",
     "@testing-library/jest-dom": "^5.16.3",
